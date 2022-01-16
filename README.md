@@ -11,10 +11,12 @@ pip install -r requirements.txt
 
 -------------------
 
+to run type this at the root folder
+------------
 
+flask run
 
 to login 
-
 --------------------
 
 http://127.0.0.1:5000/login/
