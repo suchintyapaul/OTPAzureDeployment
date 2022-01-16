@@ -1,2 +1,1 @@
-# OTPAzureDeployment
-pyotp
+source articles :: https://www.section.io/engineering-education/implementing-totp-2fa-using-flask/
